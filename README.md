@@ -24,9 +24,13 @@
 
 ### My activity on GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsevolod-Lykhobaba&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsevolod-Lykhobaba&show_icons=true&theme=default)
 
 ### About my projects
+* A telegram chatbot was written to collect information about the client with subsequent recording in the sqllite database
+* A telegram bot was implemented to determine the weather and search for recommendations for the best clothing for the weather; a third-party API was used for its implementation
+* The HTML template for the Frontend part of the site has been written
+* Created data visualization written in Python using the Ploty and Dash libraries, data for visualization was obtained from a remote POstgreSQL database
 
 ### I accept orders for: 
 * writing Telegram chatbots (using TeleBot library) to automate communication with customers, including using third-party APIs.
