@@ -8,7 +8,12 @@
 ### How to contact me
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
-<a href="https://t.me/vsevolod_lykhobaba" target="_blank"><i class="fab fa-telegram fa-2x" style="color: #0088cc;"></i></a><a href="mailto:lihobabaseva2006@gmail.com"><i class="fas fa-envelope fa-2x" style="color: #D44638;"></i></a>
+<a href="https://t.me/vsevolod_lykhobaba" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" alt="Telegram"/>
+</a>
+<a href="mailto:lihobabaseva2006@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" alt="Gmail"/>
+</a>
 
 ### Stats programig language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vsevolod-Lykhobaba&layout=compact)
