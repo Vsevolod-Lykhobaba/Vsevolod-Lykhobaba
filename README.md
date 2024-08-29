@@ -1,5 +1,15 @@
 ## Hi! My name is Vsevolod Lykhobaba, I am a freelancer with two years of experience in Python programming. 
 
+### Briefly about me
+* Now I'm 18 years old and I already have two years of experience programming in Python.
+* Now I am studying at the Kharkov National University of Radioelectronics
+* I can easily establish communication with the team and organize their work
+
+### How to contact me
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+<a href="https://t.me/vsevolod_lykhobaba" target="_blank"><i class="fab fa-telegram fa-2x" style="color: #0088cc;"></i></a><a href="mailto:lihobabaseva2006@gmail.com"><i class="fas fa-envelope fa-2x" style="color: #D44638;"></i></a>
+
 ### Stats programig language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vsevolod-Lykhobaba&layout=compact)
 
@@ -11,10 +21,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsevolod-Lykhobaba&show_icons=true&theme=radical)
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vsevolod-Lykhobaba&theme=github_dark)
+### About my projects
 
 ### I accept orders for: 
 * writing Telegram chatbots (using TeleBot library) to automate communication with customers, including using third-party APIs.
 * data visualisation using Python libraries Ploty and Dash.
 * creating HTML templates using HTML5 and CSS3.
 * working with PostgreSQL and SQLite databases directly in Python.
+
